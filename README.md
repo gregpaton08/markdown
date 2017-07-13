@@ -2,50 +2,50 @@
 
 **Bold**
 
-\*\*Bold\*\*
+`**Bold**`
 
 ---
 
 _Italics_
 
-\_Italics\_
+`_Italics_`
 
 ---
 
 # Header One
-\# Header One
+`# Header One`
 
 ---
 
 ## Header Two
-\#\# Header Two
+`## Header Two`
 
 ---
 
 ### Header Three
-\#\#\# Header Three
+`### Header Three`
 
 ---
 
 #### Header Four
-\#\#\#\# Header Four
+`#### Header Four`
 
 ---
 
 ##### Header Five
-\#\#\#\#\# Header Five
+`##### Header Five`
 
 ---
 
 ###### Header Six
-\#\#\#\#\#\# Header Six
+`###### Header Six`
 
 ---
 
 ## Inline Link
 [Go to github!](github.com)
 
-\[Go to github!\](github.com)
+`[Go to github!](github.com)`
 
 ---
 
@@ -53,17 +53,17 @@ _Italics_
 [Go to google.][link to google]
 
 [link to google]: www.google.com
+```
+[Go to google.][link to google]
 
-\[Go to google.\]\[link to google\]
-
-\[link to google\]: www.google.com
-
+[link to google]: www.google.com
+```
 ---
 
 ## Block Quote
 > Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
-\> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+`> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.`
 
 ---
 
