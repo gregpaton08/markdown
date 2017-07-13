@@ -78,19 +78,22 @@ _Italics_
   * Coors Light
   * Kane Head High
 
-\* Bread  
-  \* Rye  
-  \* White  
-\* Butter  
-  \* Unsalted  
-\* Beer  
-  \* Coors Light  
-  \* Kane Head High  
+```
+* Bread  
+  * Rye  
+  * White  
+* Butter  
+  * Unsalted  
+* Beer  
+  * Coors Light  
+  * Kane Head High  
+```
 
 1. Wash
 2. Rinse
-3. Repeat
-
+3. Repeat  
+```
 1. Wash  
 2. Rinse  
 3. Repeat
+```
