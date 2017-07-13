@@ -39,3 +39,10 @@ _Italics_
 
 ###### Header Six
 \#\#\#\#\#\# Header Six
+
+---
+
+## Inline Link
+[Go to github!](github.com)
+
+\[Go to github!\](github.com)
